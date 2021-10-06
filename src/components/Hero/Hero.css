@@ -1,0 +1,27 @@
+.bg-img {
+  background-image: url("../../images/building.jpg");
+  width: 100%;
+  min-height: 500px;
+  padding: 0px;
+  margin: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.texts {
+  overflow: hidden;
+}
+.heading {
+  font-family: Raleway;
+  font-weight: 600;
+  color: aliceblue;
+  font-size: 32px;
+  margin-top: 60px;
+}
+.text {
+  font-family: Open Sans;
+  font-weight: 600;
+  color: aliceblue;
+}
+.hero-wrapper {
+  margin-top: -60px;
+}

@@ -1,0 +1,27 @@
+.chooseus-bg-img {
+  background-image: url("../../images/chooseus.png");
+  width: 100%;
+  min-height: 400px;
+  padding: 0px;
+  margin: 0px;
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  /* object-fit: cover; */
+}
+.chooseus-overlay {
+  width: 100%;
+  min-height: 700px;
+  background: linear-gradient(
+    85.67deg,
+    #02134f 3.75%,
+    rgba(2, 19, 79, 0.34375) 61.2%,
+    rgba(2, 19, 79, 0) 187.6%
+  );
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+  /* z-index: 2; */
+  opacity: 0.9;
+}
+.chooseUs-heading {
+  font-family: Raleway;
+  
+}

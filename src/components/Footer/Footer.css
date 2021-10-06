@@ -1,0 +1,31 @@
+footer {
+  background-image: url("../../images/footer.jpg");
+  width: 100%;
+  min-height: 400px;
+  padding: 0px;
+  margin: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footer-login-btn {
+  border-radius: 0px;
+  padding-left: 58px;
+  padding-right: 58px;
+  display: block;
+}
+.footer-open-account-btn {
+  border-radius: 0px;
+  display: block;
+  margin-top: 20px;
+}
+.fast-links-heading {
+  color: #0065a3;
+}
+li {
+  color: aliceblue;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  font-weight: 500;
+  font-family: open Sans;
+}

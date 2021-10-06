@@ -1,0 +1,33 @@
+.trade-wrapper {
+  background-image: url("../../images/trading.jpg");
+  width: 100%;
+  min-height: 700px;
+  padding: 0px;
+  margin: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.trading-overlay {
+  width: 99%;
+  min-height: 700px;
+  background: linear-gradient(
+      60.1deg,
+      #02134f 40.14%,
+      rgba(2, 19, 79, 0) 73.74%
+    ),
+    linear-gradient(356.39deg, #02134f 46.49%, rgba(2, 19, 79, 0) 55.52%);
+  /* z-index: 2; */
+  opacity: 0.9;
+}
+.trading-cards {
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+  margin: 4px;
+}
+.trading-cards-icons {
+  font-size: 50px;
+  color: #003b7e;
+}
